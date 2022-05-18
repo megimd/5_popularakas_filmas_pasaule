@@ -1,0 +1,32 @@
+h1 {font-size: 25px;
+    text-align: center;
+    color:rgb(241, 184, 98);}
+    
+    /*body {
+    background-color: blanchedalmond;
+    }*/
+    
+    body {background-image:url("filmas.jpg");}
+    
+    h2 {font-size: 20px;
+    text-align: left;
+    color:rgb(45, 189, 35)}
+    
+    p.apraksts {font-size: 15px;
+    text-align:left;
+    color:rgb(235, 142, 72)}
+    
+    .bloks
+    {display: inline-block;
+    background: rgb(209, 236, 127);
+    width: 600px;
+    height: 150px;
+    border: 2px solid orange;
+    }
+    .bloksmazais
+    {display: inline-block;
+    background: rgb(255, 180, 244);
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    }
